@@ -3,10 +3,10 @@
   <channel>
     <title>潘柏信</title>
     <description>欢迎来到我的个人站~</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Sep 2018 03:11:30 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Sep 2018 03:11:30 +0000</lastBuildDate>
+    <link>http://baixin.io/</link>
+    <atom:link href="http://baixin.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 18 Sep 2018 03:22:28 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Sep 2018 03:22:28 +0000</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -171,8 +171,8 @@ We added a new template containing the Network Extension entitlements to your te
 
 </description>
         <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2017/01/iOS_Wifilist/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/01/iOS_Wifilist/</guid>
+        <link>http://baixin.io/2017/01/iOS_Wifilist/</link>
+        <guid isPermaLink="true">http://baixin.io/2017/01/iOS_Wifilist/</guid>
         
         <category>iOS</category>
         
@@ -230,8 +230,8 @@ CGRectMake(0, -self.view.bounds.size.height, self.view.bounds.size.width, self.v
 
 </description>
         <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/12/iOS_Dev_Note/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/12/iOS_Dev_Note/</guid>
+        <link>http://baixin.io/2016/12/iOS_Dev_Note/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/12/iOS_Dev_Note/</guid>
         
         <category>iOS</category>
         
@@ -817,8 +817,8 @@ sess.close()
 
 </description>
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/11/neural_networks_using_TensorFlow/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/11/neural_networks_using_TensorFlow/</guid>
+        <link>http://baixin.io/2016/11/neural_networks_using_TensorFlow/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/11/neural_networks_using_TensorFlow/</guid>
         
         <category>机器学习</category>
         
@@ -896,8 +896,8 @@ H6 :###### Header 6    &lt;br /&gt;
 
 </description>
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/11/markdownTool/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/11/markdownTool/</guid>
+        <link>http://baixin.io/2016/11/markdownTool/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/11/markdownTool/</guid>
         
         <category>工具</category>
         
@@ -1002,8 +1002,8 @@ The key fingerprint is:
 
 </description>
         <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/11/macTips/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/11/macTips/</guid>
+        <link>http://baixin.io/2016/11/macTips/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/11/macTips/</guid>
         
         <category>iOS</category>
         
@@ -1064,8 +1064,8 @@ autoreconf: automake failed with exit status: 1
 
 </description>
         <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/11/TensorFlowOniOSUse1/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/11/TensorFlowOniOSUse1/</guid>
+        <link>http://baixin.io/2016/11/TensorFlowOniOSUse1/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/11/TensorFlowOniOSUse1/</guid>
         
         <category>机器学习</category>
         
@@ -1227,8 +1227,8 @@ Privacy - Calendars Usage Description	日历&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/10/Xcode8/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/10/Xcode8/</guid>
+        <link>http://baixin.io/2016/10/Xcode8/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/10/Xcode8/</guid>
         
         <category>iOS</category>
         
@@ -1501,8 +1501,8 @@ Configuration file: /Users/baixinpan/Desktop/OpenSource/Mine/Page-Blog/leopardpa
 
 </description>
         <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/10/jekyll_tutorials1/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/10/jekyll_tutorials1/</guid>
+        <link>http://baixin.io/2016/10/jekyll_tutorials1/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/10/jekyll_tutorials1/</guid>
         
         <category>博客</category>
         
@@ -1569,8 +1569,8 @@ Configuration file: /Users/baixinpan/Desktop/OpenSource/Mine/Page-Blog/leopardpa
 &lt;p&gt;转载请注明：&lt;a href=&quot;http://baixin&quot;&gt;潘柏信的博客&lt;/a&gt; » &lt;a href=&quot;http://baixin.io/2016/09/iOSLowerLeftAppicon/&quot;&gt;点击阅读原文&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/09/iOSLowerLeftAppicon/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/09/iOSLowerLeftAppicon/</guid>
+        <link>http://baixin.io/2016/09/iOSLowerLeftAppicon/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/09/iOSLowerLeftAppicon/</guid>
         
         <category>iOS</category>
         
@@ -1732,8 +1732,8 @@ smtp_server是smtp的服务，如果你的from_addr是gamil.com，那么就要�
 
 </description>
         <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/08/PythonTestAutomationiOS/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/08/PythonTestAutomationiOS/</guid>
+        <link>http://baixin.io/2016/08/PythonTestAutomationiOS/</link>
+        <guid isPermaLink="true">http://baixin.io/2016/08/PythonTestAutomationiOS/</guid>
         
         <category>python</category>
         
