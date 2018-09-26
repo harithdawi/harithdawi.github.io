@@ -1,138 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>潘柏信</title>
-    <description>欢迎来到我的个人站~</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Sep 2018 03:35:08 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Sep 2018 03:35:08 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <title>Awesome Title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://0.0.0.0:4000/agency-jekyll-theme//</link>
+    <atom:link href="http://0.0.0.0:4000/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 26 Sep 2018 01:45:04 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Sep 2018 01:45:04 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+        <title>Dreams</title>
+        <description>
 </description>
-        <pubDate>Mon, 17 Sep 2018 16:07:43 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2018/09/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2018/09/welcome-to-jekyll/</guid>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/18/project-1/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Pejabat Kabin @ Sendiri Bos, Sendiri Kuli</title>
-        <description>&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://4.bp.blogspot.com/-lD4Z5I3KNJM/WpOO7GZyBAI/AAAAAAABiog/lDZt8Zgi6sEgy88wuSpCHfqoy_xYru9agCK4BGAYYCw/s1600/20180113_180420-719252.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526717430972154882&quot; src=&quot;https://4.bp.blogspot.com/-lD4Z5I3KNJM/WpOO7GZyBAI/AAAAAAABiog/lDZt8Zgi6sEgy88wuSpCHfqoy_xYru9agCK4BGAYYCw/s320/20180113_180420-719252.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-YF-_hrfooOA/WpOO7o7xpKI/AAAAAAABioo/HPkI4uPFC2wz-OUnmxlQxt6jVOjApuDgwCK4BGAYYCw/s1600/20180113_181959-721742.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526717440241542306&quot; src=&quot;https://1.bp.blogspot.com/-YF-_hrfooOA/WpOO7o7xpKI/AAAAAAABioo/HPkI4uPFC2wz-OUnmxlQxt6jVOjApuDgwCK4BGAYYCw/s320/20180113_181959-721742.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-3Hpxb7nBq24/WpOO8C-vsoI/AAAAAAABiow/8_Ehc4hC9i4SBHXU-tQrqKhpk4KGg4YWQCK4BGAYYCw/s1600/20180114_160151-723261.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526717447233319554&quot; src=&quot;https://1.bp.blogspot.com/-3Hpxb7nBq24/WpOO8C-vsoI/AAAAAAABiow/8_Ehc4hC9i4SBHXU-tQrqKhpk4KGg4YWQCK4BGAYYCw/s320/20180114_160151-723261.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-nD6LR-VrN_g/WpOO8nkfXHI/AAAAAAABio4/ct__GBi8KMs8KGlOjx1R6P1KgunrB_HfwCK4BGAYYCw/s1600/20180215_174142-725359.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526717457055308914&quot; src=&quot;https://3.bp.blogspot.com/-nD6LR-VrN_g/WpOO8nkfXHI/AAAAAAABio4/ct__GBi8KMs8KGlOjx1R6P1KgunrB_HfwCK4BGAYYCw/s320/20180215_174142-725359.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div class=&quot;gmail_quote&quot;&gt;&lt;div class=&quot;gmail-m_-558093966263711087HOEnZb&quot;&gt;&lt;div class=&quot;gmail-m_-558093966263711087h5&quot;&gt;&lt;div dir=&quot;auto&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Alhamdullilah,   siap juga kerja-kerja pemasangan pejabat baru syarikat perniagaan   online dan agen insuran general aku. Lepas ni semua stok online aku   sumbat dalam kabin. Jadi tak la semak sangat rumah aku.&lt;/span&gt;&lt;br /&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Kos semua hampir RM12 ribu. Boleh dikatakan jauh lebih murah kalau aku buat binaan batu.&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Aku   penah tanya, Tukang rumah Indonesia minta stanby RM15K untuk buat   binaan batu. Tu tak termasuk kerja-kerja pendawaian dan lain-lain lagi.   Hahahaha!!!&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Secara kasarnya ni kos aku kena tanggung.&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Kabin 20&quot;x10&quot; heavy duty = RM6000&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Penghantaran = RM300&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Lantai siap tulang besi = RM1000&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Aircon 1HP Inverter = RM1150&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Awning + Grill = RM1800&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Wiring (earthing) + Deposit TNB = RM1800&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Total RM12,050&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Signboard tu boleh buat lagi. Tu maybe dalam RM1500. Duit tepi-tepi keluar dari dompet mem​ang aku dah tak ingat. Haha&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot; style=&quot;font-family: sans-serif; font-size: medium;&quot;&gt;Tapi berbaloi sangat. Dari aku ulang alik kerja dengan orang. Nak makan pun&amp;nbsp; kena minta kebenaran. Huhu&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+        <title>Escape</title>
+        <description>
 </description>
-        <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2018/02/pejabat-kabin-sendiri-bos-sendiri-kuli_68/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2018/02/pejabat-kabin-sendiri-bos-sendiri-kuli_68/</guid>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
         
+        
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Kenduri Akikah Risha @ 24/02/2018</title>
-        <description>&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://4.bp.blogspot.com/-wzSnUlZs1ss/WpOCaqO83xI/AAAAAAABim0/5ErKjyeqTu4RNm2N_junnEAznEfFjgwlgCK4BGAYYCw/s1600/20180224_113004-716925.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703679515189010&quot; src=&quot;https://4.bp.blogspot.com/-wzSnUlZs1ss/WpOCaqO83xI/AAAAAAABim0/5ErKjyeqTu4RNm2N_junnEAznEfFjgwlgCK4BGAYYCw/s320/20180224_113004-716925.jpg&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-07oXrb1s790/WpOCXeqMdEI/AAAAAAABimU/imXYeDoW1Dk0A2q9dlQyBqm54Tkbw74eQCK4BGAYYCw/s1600/20180224_095951-702915.jpg&quot;&gt;&lt;br /&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703624868623426&quot; src=&quot;https://3.bp.blogspot.com/-07oXrb1s790/WpOCXeqMdEI/AAAAAAABimU/imXYeDoW1Dk0A2q9dlQyBqm54Tkbw74eQCK4BGAYYCw/s320/20180224_095951-702915.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-R-YLamTOqkg/WpOCYZomktI/AAAAAAABimc/42IdOanCx6oqMntFt5-CN8yUcQ-Ib9SvgCK4BGAYYCw/s1600/DSC_0030-707359.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703640699638482&quot; src=&quot;https://1.bp.blogspot.com/-R-YLamTOqkg/WpOCYZomktI/AAAAAAABimc/42IdOanCx6oqMntFt5-CN8yUcQ-Ib9SvgCK4BGAYYCw/s320/DSC_0030-707359.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://4.bp.blogspot.com/-Zwg2Vqavgy0/WpOCY1Jrc8I/AAAAAAABimk/RiNxW86V3WMpSZMQxRXPaqdUqSw7vPuGQCK4BGAYYCw/s1600/20180224_163214-710530.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703648086127554&quot; src=&quot;https://4.bp.blogspot.com/-Zwg2Vqavgy0/WpOCY1Jrc8I/AAAAAAABimk/RiNxW86V3WMpSZMQxRXPaqdUqSw7vPuGQCK4BGAYYCw/s320/20180224_163214-710530.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-YxiXzP9Ine0/WpOCZzTAmWI/AAAAAAABims/bR1HIZfVjPspNWrlKu84cMv_ojSKrmzeQCK4BGAYYCw/s1600/DSC_0018-713743.JPG&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703664768260450&quot; src=&quot;https://1.bp.blogspot.com/-YxiXzP9Ine0/WpOCZzTAmWI/AAAAAAABims/bR1HIZfVjPspNWrlKu84cMv_ojSKrmzeQCK4BGAYYCw/s320/DSC_0018-713743.JPG&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-JWAvsYhexe0/WpOCbV9uOfI/AAAAAAABim8/VwUrp5wcDug2W2GRdGVR9c38Dy2Eb9JNgCK4BGAYYCw/s1600/20180224_102157-719551.jpg&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703691254086130&quot; src=&quot;https://1.bp.blogspot.com/-JWAvsYhexe0/WpOCbV9uOfI/AAAAAAABim8/VwUrp5wcDug2W2GRdGVR9c38Dy2Eb9JNgCK4BGAYYCw/s320/20180224_102157-719551.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://2.bp.blogspot.com/-27gwJROAxqM/WpOCb7yJLLI/AAAAAAABinE/7HkaEWPl4OQ2XJHR6EGJ3py6bsLMXvFXQCK4BGAYYCw/s1600/DSC_0021-722616.JPG&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; id=&quot;BLOGGER_PHOTO_ID_6526703701406067890&quot; src=&quot;https://2.bp.blogspot.com/-27gwJROAxqM/WpOCb7yJLLI/AAAAAAABinE/7HkaEWPl4OQ2XJHR6EGJ3py6bsLMXvFXQCK4BGAYYCw/s320/DSC_0021-722616.JPG&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot;&gt;Alhamdullilah, selesai juga majlis kenduri akikah anak perempuan aku ni. 😃&lt;/div&gt;
+        <title>Golden</title>
+        <description>
 </description>
-        <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2018/02/kenduri-akikah-risha-24022018/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2018/02/kenduri-akikah-risha-24022018/</guid>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/16/project-3/</guid>
         
+        
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>LC dan Kancil</title>
-        <description>&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-EE2XLv511Gw/WENE907EuzI/AAAAAAABQIA/KHeHRWKYLR4dIHCn2f2oKyaB-QcgKIkwACK4B/s1600/20161201_073958-773847.jpg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-EE2XLv511Gw/WENE907EuzI/AAAAAAABQIA/KHeHRWKYLR4dIHCn2f2oKyaB-QcgKIkwACK4B/s320/20161201_073958-773847.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6360002927746399026&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://3.bp.blogspot.com/-E6hDxYBJUPY/WENE-e2Q8_I/AAAAAAABQII/UGJ4k8aYhW4g-GqdtXMZPn4ya557yp60QCK4B/s1600/20161201_074009-1-776532.jpg&quot;&gt;&lt;img src=&quot;https://3.bp.blogspot.com/-E6hDxYBJUPY/WENE-e2Q8_I/AAAAAAABQII/UGJ4k8aYhW4g-GqdtXMZPn4ya557yp60QCK4B/s320/20161201_074009-1-776532.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6360002939000517618&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div dir=&quot;auto&quot;&gt;kereta dan motor syarikat tayar pecah... semua aktiviti cod ditunda....dok rumah layan iflix satu season...&lt;div dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;  
+        <title>Treehouse</title>
+        <description>
 </description>
-        <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/12/lc-dan-kancil/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/12/lc-dan-kancil/</guid>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/15/project-4/</guid>
         
+        
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>I Play To WIN</title>
-        <description>&lt;div dir=&quot;auto&quot;&gt;i play to win....while others play not to lose...everything has its own risk..what important.. how i manage it. 😙😙😚&lt;div dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot;&gt;- harith&lt;/div&gt;&lt;div dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;div dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  
+        <title>Round Icons</title>
+        <description>
 </description>
-        <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/12/i-play-to-win/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/12/i-play-to-win/</guid>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/15/project-6/</guid>
         
+        
+        <category>Web Development</category>
         
       </item>
     
       <item>
-        <title>Masak - Masak</title>
-        <description>&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-0qBfsdcfJoQ/VyLSEtSeAnI/AAAAAAAAYx0/c5CBbkKWjPU6vpCxuhkkKTN2KnU4lWy2ACK4B/s1600/20160428_231253-792460.jpg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-0qBfsdcfJoQ/VyLSEtSeAnI/AAAAAAAAYx0/c5CBbkKWjPU6vpCxuhkkKTN2KnU4lWy2ACK4B/s320/20160428_231253-792460.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6278811808826262130&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div dir=&quot;ltr&quot;&gt;Alamak..lupa nak ambil gambar mee... kekeke&lt;br clear=&quot;all&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;div class=&quot;gmail_signature&quot;&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;div dir=&quot;ltr&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-family:trebuchet ms,sans-serif&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  &lt;/div&gt;&lt;/div&gt;  
+        <title>Startup Framework</title>
+        <description>
 </description>
-        <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/04/masak-masak/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/04/masak-masak/</guid>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/agency-jekyll-theme//web%20development/2014/07/14/project-5/</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Jual Helmet TSR</title>
-        <description>&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-5kmnz36dwTk/VyF6cPJNTzI/AAAAAAAAYw8/4gM-57E2n94U8hxZbpQn2rhuMhuOf15dACK4B/s1600/20160413_224240-721761.jpg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-5kmnz36dwTk/VyF6cPJNTzI/AAAAAAAAYw8/4gM-57E2n94U8hxZbpQn2rhuMhuOf15dACK4B/s320/20160413_224240-721761.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6278433981051260722&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Jual halmet TSR aku sebab dah ketat. Lagi pun nak tukar halmet baru...hehe.&lt;/p&gt;  &lt;p dir=&quot;ltr&quot;&gt;Ada brother dari Klang datang COD dekat Putrajaya.&lt;/p&gt;  &lt;p dir=&quot;ltr&quot;&gt;RM150 jaa...&lt;/p&gt;  
-</description>
-        <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/04/jual-helmet-tsr/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/04/jual-helmet-tsr/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Kotor &amp; Berbau Hanyir</title>
-        <description>&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-EuI9JI52y_o/VxTBiLFG7DI/AAAAAAAAXs4/j9MOhjJXe7YNEFtOaTp1lvXfmY-tqE2OgCK4B/s1600/20160418_182853-754833.jpg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-EuI9JI52y_o/VxTBiLFG7DI/AAAAAAAAXs4/j9MOhjJXe7YNEFtOaTp1lvXfmY-tqE2OgCK4B/s320/20160418_182853-754833.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6274852973667871794&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Air buah apple berbau hanyir...cawan pun kotor...aduuh. &lt;/p&gt;  &lt;p dir=&quot;ltr&quot;&gt;Makanan pun tak sedap, pinggan kotor.. Banyak gerai macam ni. Kotor, tak rasa nak cuci ker? Alahai..terus &amp;quot;blacklist&amp;quot; kedai ni...&lt;/p&gt;  
-</description>
-        <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/04/kotor-berbau-hanyir/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/04/kotor-berbau-hanyir/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tayar Terguris, Hati Terhiris.</title>
-        <description>&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://2.bp.blogspot.com/-tbY3vlGCwwY/VxCcmbZKsqI/AAAAAAAAXqY/Idw3lG5bfcc8Fsw5yPf7g3mE7d6w5oMEACK4B/s1600/20160415_122708-756215.jpg&quot;&gt;&lt;img src=&quot;https://2.bp.blogspot.com/-tbY3vlGCwwY/VxCcmbZKsqI/AAAAAAAAXqY/Idw3lG5bfcc8Fsw5yPf7g3mE7d6w5oMEACK4B/s320/20160415_122708-756215.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6273686464929378978&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Mengalamun tengok orang, masuk petak pam minyak kat Petronas terlanggar bucu tembok pum tu.&lt;/p&gt;  &lt;p dir=&quot;ltr&quot;&gt;Ahamdullilah tak bocor. Cuma risau ja bawa kereta ni....&lt;/p&gt;  
-</description>
-        <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/04/tayar-terguris-hati-terhiris/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/04/tayar-terguris-hati-terhiris/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pasang Ekby Alex</title>
-        <description>&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://2.bp.blogspot.com/-WWlaohJuTtM/VwpTmGo9gVI/AAAAAAAAXPY/xlaqSu5oMdwBpj5HKXGE46NpV8sFCq0CA/s1600/20160406_132743-751394.jpg&quot;&gt;&lt;img src=&quot;https://2.bp.blogspot.com/-WWlaohJuTtM/VwpTmGo9gVI/AAAAAAAAXPY/xlaqSu5oMdwBpj5HKXGE46NpV8sFCq0CA/s320/20160406_132743-751394.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6271917345149387090&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-ksY4OPDxu7g/VwpTm2x9IAI/AAAAAAAAXPg/RSWSVda8XYwgcEcswralcuUtPbs54Xa7w/s1600/20160406_172445-754734.jpg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-ksY4OPDxu7g/VwpTm2x9IAI/AAAAAAAAXPg/RSWSVda8XYwgcEcswralcuUtPbs54Xa7w/s320/20160406_172445-754734.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6271917358072012802&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class=&quot;mobile-photo&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-YWa5FowBDIg/VwpTnjoKLmI/AAAAAAAAXPo/D937SGPWiGAHMRKi-TPq5ZYnYwBingehw/s1600/FB_IMG_1459935175951-757180.jpg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-YWa5FowBDIg/VwpTnjoKLmI/AAAAAAAAXPo/D937SGPWiGAHMRKi-TPq5ZYnYwBingehw/s320/FB_IMG_1459935175951-757180.jpg&quot;  border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_6271917370110520930&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Edisi rak LCD TV kompak.  Ni belum 100% siap lagi. Sambung hari lain, penat sangat pulak. Hehehe&lt;/p&gt;  
-</description>
-        <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2016/04/pasang-ekby-alex/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2016/04/pasang-ekby-alex/</guid>
-        
+        <category>Web Development</category>
         
       </item>
     
